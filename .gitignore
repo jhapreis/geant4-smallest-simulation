@@ -1,0 +1,12 @@
+# Workspace editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Build
+build/
+cmake-build-debug/
+
+# Logs
+logs/
+*.log
